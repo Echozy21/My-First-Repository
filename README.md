@@ -1,3 +1,2 @@
-# My-First-Repository
-Just a repository
-HELLO SUGAR LABS
+# HELLO SUGAR LABS
+MY FIRST REPOSITORY
